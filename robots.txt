@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.northwalesminers.com/sitemap.xml
+Sitemap: https://northwalesminers.com/sitemap.xml

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.northwalesminers.com/</loc>
+    <loc>https://northwalesminers.com/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/index.htm</loc>
+    <loc>https://northwalesminers.com/index.htm</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/trust/why.htm</loc>
+    <loc>https://northwalesminers.com/trust/why.htm</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/sites.htm</loc>
+    <loc>https://northwalesminers.com/sites.htm</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/trust/contactus.htm</loc>
+    <loc>https://northwalesminers.com/trust/contactus.htm</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/sites/minemetal/billins.htm</loc>
+    <loc>https://northwalesminers.com/sites/minemetal/billins.htm</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/sites/minecoal/crossfoxes/crossfoxes.htm</loc>
+    <loc>https://northwalesminers.com/sites/minecoal/crossfoxes/crossfoxes.htm</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/sites/minecoal/blackpark/blackpark.htm</loc>
+    <loc>https://northwalesminers.com/sites/minecoal/blackpark/blackpark.htm</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.northwalesminers.com/jambcbt.htm</loc>
+    <loc>https://northwalesminers.com/jambcbt.htm</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
